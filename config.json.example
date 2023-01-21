@@ -1,0 +1,6 @@
+{
+  "token": "paste_telegram_bot_token_here",
+  "verbose": true,
+  "update_interval": 3600,
+  "admins": [123, 456]
+}
